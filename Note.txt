@@ -1,7 +1,12 @@
 https://app.pluralsight.com/library/courses/scalable-modular-architecture-for-css/exercise-files
 https://github.com/snookca?tab=repositories
 http://5by5.tv/
+http://slides.com/pamelafox/when-bootstrap-attacks#/
+https://purecss.io/
+https://speakerdeck.com/vjeux/react-css-in-js
 
+https://stylelint.io/
+https://css-tricks.com/stylelint/
 
 D:\react\SMACSS>git init
 D:\react\SMACSS>git remote add origin git@github.com:Annie-Huang/SMACSS.git
