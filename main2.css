@@ -1,0 +1,12 @@
+.nav{}
+
+/*!*wrong one*!*/
+/*.nav > li:hover > .megadropdown {display: block;}*/
+/*.megadropdown {display: none}*/
+
+.nav_dropdown { display: none;}
+.nav > li:hover > .nav_dropdown { display: block}
+/*this means megadropdown does not need any display value, it can work stand along*/
+.megadropdown {}
+
+.menu {}
