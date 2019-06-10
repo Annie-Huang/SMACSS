@@ -5,6 +5,7 @@ http://slides.com/pamelafox/when-bootstrap-attacks#/
 https://purecss.io/
 https://speakerdeck.com/vjeux/react-css-in-js
 https://www.engadget.com/
+https://patternlab.io/
 
 https://stylelint.io/
 https://css-tricks.com/stylelint/
@@ -15,3 +16,26 @@ D:\react\SMACSS>git add .
 D:\react\SMACSS>git commit
 D:\react\SMACSS>git push -u origin master
 
+Things should not use:
+===========================
+extends
+nesting
+single css selector (single class selector)
+
+Use:
+==========
+css partial
+variable
+mixins
+
+global css file order:
+=============================
+global variable
+global plallet
+css animation
+mixins
+base css
+layout
+module
+shame css
+aria file.
